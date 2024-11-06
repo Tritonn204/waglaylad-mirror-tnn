@@ -1,4 +1,4 @@
-module github.com/waglayla/waglaylad
+module github.com/Tritonn204/waglaylad-mirror-tnn
 
 go 1.18
 
